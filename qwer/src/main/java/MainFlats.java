@@ -66,7 +66,7 @@ public class MainFlats {
 
         //  для створення таблиці розкоментувати код (і для того щоб вона вдруге не перестворювалась закоментувати)
 //        try {
-//            st.execute("DROP TABLE IF EXISTS flat");
+//            st.execute("DROP TABLE IF EXISTS flats");
 //            st.execute("CREATE TABLE flats (id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, zone VARCHAR(20), address VARCHAR(25), area FLOAT, rooms int, price int)");
 //        } finally {
 //            st.close();
